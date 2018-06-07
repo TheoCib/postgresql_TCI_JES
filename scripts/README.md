@@ -10,4 +10,4 @@
 * load_show_database.sh > Peuple la BDD shows.  
 * create_ynov_database.sh > Crée et peuple la BDD ynov.  
 * set_configuration.sh > Configure l'heure de la BDD shows.  
-
+* reset_show.sh > Drop et recrée entièrement la database shows
